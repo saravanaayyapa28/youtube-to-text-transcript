@@ -1,2 +1,1 @@
-# youtube-to-text-transcript
-in this project user input is youtube link and it can convert a text 
+##"youtube video-to-text-transcript" is a straightforward and descriptive name for a project that focuses on converting YouTube video content into text transcripts.
